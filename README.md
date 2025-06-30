@@ -2,6 +2,8 @@
 
 Beautiful, accessible, and production-ready notification components for modern web applications. Experience smooth animations, intelligent stacking, and comprehensive message types.
 
+![1](https://github.com/user-attachments/assets/10b5b594-6e40-4ce7-bd8c-3689aab6aeb5)
+
 ## Core Features:
 
 - Multi-type flash messages (success, error, warning, info)
